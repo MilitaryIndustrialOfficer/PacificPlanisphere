@@ -1,0 +1,65 @@
+name,lat,lon,terrain,island_size,type,original_lat,original_lon,refinement_nm,land_pixels
+Diego Garcia,-7.327874,72.433099,Atoll,Medium,island,-7.320000,72.420000,0.99,63
+Addu,-0.616935,73.143684,Atoll,Very Small,island,-0.630000,73.150000,1.19,30
+Cocos Islands,-12.159966,96.870179,Atoll,Small,island,-12.170000,96.830000,2.49,19
+Christmas Island,-10.483471,105.637530,Jungle,Medium,island,-10.490000,105.630000,0.64,214
+Ambon,-3.656862,128.154199,Jungle + rough,Very Large,island,-3.700000,128.170000,2.87,977
+Babeldaob,7.488290,134.565087,Jungle,Large,island,7.500000,134.560000,0.78,542
+Peleliu,7.045277,134.264511,Atoll,Small,island,7.000000,134.250000,2.98,87
+Yap,9.535653,138.129069,Jungle,Medium,island,9.510000,138.130000,1.58,130
+Ulithi,9.978186,139.749192,Atoll,Very Small,island,10.000000,139.670000,4.90,9
+Woleai,7.377069,143.916204,Atoll,Very Small,island,7.370000,143.850000,4.03,1
+Guam,13.441410,144.774934,Jungle,Very Large,island,13.440000,144.790000,0.90,639
+Rota,14.159022,145.215910,Jungle,Medium,island,14.150000,145.200000,1.11,101
+Iwo-jima,24.783136,141.318908,Rough,Small,island,24.780000,141.320000,0.20,31
+Saipan,15.164369,145.734776,Jungle,Large,island,15.190000,145.750000,1.83,242
+Tinian,15.034124,145.651974,Jungle,Large,island,15.000000,145.630000,2.49,219
+Buka,-5.397490,154.680118,Jungle,Very Large,island,-5.420000,154.670000,1.48,811
+Haha-jima,26.655739,142.158439,Jungle,Small,island,26.650000,142.150000,0.62,38
+Pagan,18.118419,145.770382,Rough,Medium,island,18.120000,145.770000,0.10,55
+Shortlands,-7.039452,155.813855,Jungle,Medium,island,-7.050000,155.880000,3.99,349
+Rendova,-8.388589,157.311357,Jungle + rough,Large,island,-8.400000,157.300000,0.96,1011
+Chichi-jima,27.092031,142.208027,Rough,Small,island,27.090000,142.190000,1.04,58
+Truk,7.419891,151.842476,Jungle + rough,Medium,island,7.450000,151.850000,1.88,97
+Tulagi,-9.070759,160.207280,Jungle,Large,island,-9.100000,160.150000,3.82,458
+Ponape,6.894626,158.223587,Rough,Large,island,6.960000,158.210000,4.01,415
+Marcus Island,24.290000,153.980000,Atoll,Very Small,island,24.290000,153.980000,0.00,0
+Kusaie Island,5.311148,162.981759,Rough,Large,island,5.320000,162.980000,0.54,150
+Eniwetok,11.490279,162.292342,Atoll,Very Small,island,11.500000,162.300000,0.74,125
+Nauru Island,-0.515211,166.934067,Atoll,Small,island,-0.520000,166.930000,0.38,26
+Ocean Island,-0.853259,169.539777,Clear,Very Small,island,-0.870000,169.530000,1.16,5
+Bikini,11.635260,165.336801,Atoll,Very Small,island,11.580000,165.380000,4.24,76
+Rongelap,11.228489,166.863244,Atoll,Very Small,island,11.150000,166.870000,4.75,60
+Roi-Namur,9.303445,167.479254,Atoll,Very Small,island,9.400000,167.470000,5.85,46
+Kwajalein Island,8.809245,167.713986,Atoll,Very Small,island,8.720000,167.730000,5.47,31
+Namorik,5.607544,168.130874,Atoll,Very Small,island,5.600000,168.100000,1.91,27
+Ebon,4.599644,168.720850,Atoll,Very Small,island,4.600000,168.700000,1.26,38
+Namu,7.968885,168.157419,Atoll,Very Small,island,7.980000,168.100000,3.54,134
+Ailinglaplap,7.470764,168.846673,Atoll,Small,island,7.500000,168.800000,3.35,75
+Jaluit,5.942453,169.661814,Atoll,Very Small,island,5.920000,169.650000,1.52,106
+Likiep,9.896584,169.113248,Atoll,Very Small,island,9.900000,169.100000,0.83,91
+Wotje,9.462413,170.181355,Atoll,Very Small,island,9.450000,170.230000,3.04,65
+Wake Island,19.300675,166.643227,Atoll,Very Small,island,19.280000,166.630000,1.46,2
+Taongi,14.645233,168.953101,Atoll,Very Small,island,14.650000,168.950000,0.35,32
+Ailuk,10.294260,169.909900,Atoll,Very Small,island,10.300000,169.950000,2.43,23
+Maloelap,8.759810,171.086821,Atoll,Very Small,island,8.750000,171.050000,2.29,63
+Majuro,7.104018,171.496845,Atoll,Very Small,island,7.090000,171.380000,7.09,19
+Mili,6.135093,171.924416,Atoll,Small,island,6.080000,171.930000,3.36,538
+Makin,3.322941,172.964914,Atoll,Small,island,3.400000,172.950000,4.77,32
+Tarawa,1.460543,173.059120,Atoll,Small,island,1.450000,173.030000,1.86,24
+Abemama,0.409667,173.887307,Clear,Small,island,0.400000,173.850000,2.32,30
+Funafuti,-8.529857,179.155307,Atoll,Very Small,island,-8.520000,179.200000,2.72,26
+Howland Island,0.806294,-176.611640,Atoll,Very Small,island,0.810000,-176.620000,0.56,2
+Pago Pago,-14.299143,-170.718604,Jungle,Large,island,-14.270000,-170.700000,2.13,143
+Baker Island,0.190000,-176.480000,Atoll,Very Small,island,0.190000,-176.480000,0.00,0
+Attu Island,52.893714,172.921545,Rough,Very Large,island,52.880000,172.910000,0.93,1095
+Canton Island,-2.846618,-171.663691,Atoll,Very Small,island,-2.820000,-171.720000,3.80,2
+Kiska Island,51.995324,177.525408,Swamp,Large,island,51.960000,177.600000,4.22,358
+Amchitka Island,51.509729,179.031206,Swamp,Large,island,51.570000,179.100000,4.51,295
+Midway Island,28.208642,-177.371803,Atoll,Very Small,island,28.210000,-177.380000,0.48,7
+Johnston Island,16.715333,-169.523719,Atoll,Very Small,island,16.730000,-169.530000,1.03,3
+Palmyra,5.882389,-162.069717,Atoll,Very Small,island,5.880000,-162.080000,0.63,4
+Jarvis Island,-0.373212,-159.991545,Atoll,Very Small,island,-0.370000,-160.000000,0.56,2
+Tahiti,-17.657635,-149.442866,Jungle + rough,Very Large,island,-17.680000,-149.450000,1.59,1201
+Christmas Island,-10.483471,105.637530,Atoll,Very Large,island,-10.490000,105.630000,0.64,214
+Pearl Harbor,21.401293,-157.941385,Jungle + rough,Very Large,island,21.350000,-157.950000,3.39,1399

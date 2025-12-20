@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Planisphere>
+  <Name>PacificPlanisphere</Name>
+  <Version>1.0</Version>
+
+  <Projection>
+    <CenterLon_deg>160.0</CenterLon_deg>
+    <CenterLat_deg>-9.0</CenterLat_deg>
+    <EarthRadius_nm>3440.065</EarthRadius_nm>
+  </Projection>
+
+  <MapExtents>
+    <NativeResolution_nm_per_px>0.25</NativeResolution_nm_per_px>
+    <Width_px>51000</Width_px>
+    <Height_px>30000</Height_px>
+    <ExtentWest_px>21000</ExtentWest_px>
+    <ExtentEast_px>30000</ExtentEast_px>
+    <ExtentNorth_px>20000</ExtentNorth_px>
+    <ExtentSouth_px>10000</ExtentSouth_px>
+  </MapExtents>
+
+  <HexGrid>
+    <Origin_x_nm>9.0</Origin_x_nm>
+    <Origin_y_nm>-4.0</Origin_y_nm>
+  </HexGrid>
+</Planisphere>
